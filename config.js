@@ -4,7 +4,7 @@
     * Used to fetch the data from a specific GitHub profile.'
     * IMPORTANT: Don't forget to set your username here.'
     */
-    "githubUsername": "tsvetomirnik",
+    "githubUsername": "MDimitroff",
     
     /**
     * Full name
