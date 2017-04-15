@@ -72,15 +72,11 @@
     "socialIcons": [
 		{
             "type": "EMAIL",
-		    "text": "cvetomir.nikolov@gmail.com"
+		    "text": "dimitrov.martin.v@gmail.com"
         },
         {
             "type": "GITHUB",
-		    "link": "https://github.com/tsvetomirnik"
-        },
-		{
-            "type": "LINKEDIN",
-		    "link": "https://bg.linkedin.com/in/tsvetomir-nikolov-9461685b"
+		    "link": "https://github.com/MDimitroff"
         }
     ]
 }
